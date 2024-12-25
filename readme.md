@@ -17,11 +17,7 @@ Stability AI limits users to generating only 5 images per account, which was not
 
 ### 📋 Requirements  
 - **Python** (>= 3.8)  
-- Required libraries:  
-  ```bash
-  pip install -r requirements.txt
-  ```  
-- A browser driver (e.g., Edge).  
+
 
 ---
 
@@ -73,11 +69,6 @@ Stability AI istifadəçilərə yalnız 5 şəkil yaratmağa icazə verir ki, bu
 
 ### 📋 Tələblər  
 - **Python** (>= 3.8)  
-- Lazımi kitabxanalar:  
-  ```bash
-  pip install -r requirements.txt
-  ```  
-- Brauzer sürücüsü (məsələn, Edge).  
 
 ---
 
