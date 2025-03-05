@@ -29,7 +29,7 @@ def create_email():
     if response.status_code == 201:
         return email, payload["password"]
     else:
-        raise Exception("email cant be created")
+        return "email cant be created"
 
 
 def get_messages(email, password):
